@@ -4,7 +4,7 @@ _Preference-Based Bayesian Inverse Constraint Reinforcement Learning_ (PBICRL) i
 
 
 # Requirements
-The code was written in Python >=3.7 \
+The code was written in Python 3.8.13 \
 To install the requirements: \
 pip install -r requirements.txt
 
