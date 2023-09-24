@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 # Contents
 
-Each folder contains the code for the four simulation environments used in the paper. You can run the code by simply running  <tt> run_experiments.sh <tt>.
+Each folder contains the code for the four simulation environments used in the paper. You can run the code by simply running run_experiments.sh.
 
 
 
