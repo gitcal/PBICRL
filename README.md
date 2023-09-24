@@ -9,9 +9,14 @@ To install the requirements: \
 pip install -r requirements.txt
 
 # Contents
-## Point-Mass
+
+Each folder contains the code for the four simulation environments used in the paper. You can run the code by simply running run_experiments.sh.
+
+
 
 <!---
+
+## Point-Mass
 # References
 
 If you find this paper interesting and relevant to your work you can cite it as follows:
