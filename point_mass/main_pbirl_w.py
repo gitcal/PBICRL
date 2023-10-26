@@ -23,7 +23,7 @@ parser.add_argument('--m2', type=float, default=0)
 parser.add_argument('--m3', type=float, default=0)
 parser.add_argument('--s', type=float, default=1)
 parser.add_argument('--norm_flag', type=int, default=0)
-parser.add_argument('--data_fl_name', type=str, default='trajectories_m10_m100')
+parser.add_argument('--data_fl_name', type=str, default='point_mass_trajectories_m10_m100')
 args = parser.parse_args()
 
 
