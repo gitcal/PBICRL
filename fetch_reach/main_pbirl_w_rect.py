@@ -108,7 +108,7 @@ def main():
 	filename = 'data/' + fl_name + '_' + str(num_steps) + '_' + str(N_demonstrations)+\
 	'_'+str(boltz_beta1)+'_'+str(boltz_beta2)+'_'+str(boltz_beta3)+'_'+str(s)+'_'+str(m1)+'_'+str(m2)+'_'+str(m3)+'_'+str(norm_flag)       
 
-	with open('data/trajectories_rect.pickle', 'rb') as pickle_file:
+	with open('data/fetch_reach_trajectories.pickle', 'rb') as pickle_file:
 		data = pickle.load(pickle_file)
 
 	trajectory_demos_states = data['trajectories']
