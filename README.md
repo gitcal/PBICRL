@@ -10,7 +10,9 @@ pip install -r requirements.txt
 
 # Contents
 
-Each folder contains the code for the four simulation environments used in the paper. You can run the code by simply running run_experiments.sh.
+Each folder contains the code for the four simulation environments used in the paper. You can run the code by simply running run_experiments.sh. The data files containting the demonstrations 
+can be downloaded using the following link. The data files should be saved in the corresponding data folder for each environment.
+https://drive.google.com/drive/folders/1YKynJct0_ZeBkZCNKA7L2OGFtMs6v1VW?usp=sharing
 
 
 
