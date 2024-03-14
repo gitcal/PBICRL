@@ -20,7 +20,7 @@ https://drive.google.com/drive/folders/1YKynJct0_ZeBkZCNKA7L2OGFtMs6v1VW?usp=sha
 
 
 
-If you find this code and paper relevant to your work, you can cite it as follows:
+If you find this code and paper useful and relevant to your work, please cite the paper as follows:
 
 @article{papadimitriou2024bayesian,\
   title={Bayesian Constraint Inference from User Demonstrations Based on Margin-Respecting Preference Models},\
