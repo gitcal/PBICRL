@@ -16,18 +16,17 @@ https://drive.google.com/drive/folders/1YKynJct0_ZeBkZCNKA7L2OGFtMs6v1VW?usp=sha
 
 
 
-<!---
 
-## Point-Mass
-# References
 
-If you find this paper interesting and relevant to your work you can cite it as follows:
 
-@article{papadimitriou2022bayesian,\
-title={Bayesian Methods for Constraint Inference in Reinforcement Learning},\
-author={Papadimitriou, Dimitris and Anwar, Usman and Brown, Daniel S.},\
-journal={Transactions on Machine Learning Research},\
-year={2022},\
-url={https://openreview.net/forum?id=oRjk5V9eDp }
+
+If you find this code and paper relevant to your work, you can cite it as follows:
+
+@article{papadimitriou2024bayesian,
+  title={Bayesian Constraint Inference from User Demonstrations Based on Margin-Respecting Preference Models},
+  author={Papadimitriou, Dimitris and Brown, Daniel S},
+  journal={arXiv preprint arXiv:2403.02431},
+  year={2024}
 }
---->
+
+
