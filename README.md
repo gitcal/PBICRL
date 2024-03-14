@@ -22,11 +22,11 @@ https://drive.google.com/drive/folders/1YKynJct0_ZeBkZCNKA7L2OGFtMs6v1VW?usp=sha
 
 If you find this code and paper relevant to your work, you can cite it as follows:
 
-@article{papadimitriou2024bayesian,
-  title={Bayesian Constraint Inference from User Demonstrations Based on Margin-Respecting Preference Models},
-  author={Papadimitriou, Dimitris and Brown, Daniel S},
-  journal={arXiv preprint arXiv:2403.02431},
-  year={2024}
+@article{papadimitriou2024bayesian,\
+  title={Bayesian Constraint Inference from User Demonstrations Based on Margin-Respecting Preference Models},\
+  author={Papadimitriou, Dimitris and Brown, Daniel S},\
+  journal={arXiv preprint arXiv:2403.02431},\
+  year={2024}\
 }
 
 
