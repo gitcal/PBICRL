@@ -25,7 +25,7 @@ If you find this code and paper useful and relevant to your work, please cite th
 @article{papadimitriou2024bayesian,\
   title={Bayesian Constraint Inference from User Demonstrations Based on Margin-Respecting Preference Models},\
   author={Papadimitriou, Dimitris and Brown, Daniel S},\
-  journal={Transactions on Machine Learning Research},\
+  journal={International Conference on Robotics and Automation},\
   year={2024}\
 }
 
